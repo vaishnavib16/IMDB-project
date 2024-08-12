@@ -1,0 +1,26 @@
+.movie_list ul li{
+    
+    border: 1px solid white;
+    display: inline-block;
+    padding: 5px;
+    width: 150px;
+    background-color: rgb(31, 29, 29);
+}
+.movie_list h2{
+    margin: 10px;
+}
+.movie_list{
+    text-align: center;
+    margin-top: 30px;
+}
+.movie_list span{
+    font-size: 15px;
+    color: rgb(22, 221, 22);
+    text-decoration: underline;
+}
+.seachbar{
+    width: 400px;
+    margin: 10px;
+    height: 30px;
+    padding-left: 10px;
+}

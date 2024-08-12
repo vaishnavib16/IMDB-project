@@ -1,0 +1,52 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border: solid rgb(73, 69, 69) 1px;
+    border-radius: 5px;
+    min-width: 100px;
+    max-width: 250px;
+    cursor: pointer;
+    margin:10px 0px 0px 10px;
+    padding: 5px;
+    background-color:rgb(14, 14, 14);
+   
+    min-height: 300px   
+    
+    
+}
+.movie_info{
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    margin-top: 5px 0px; 
+    font-weight: 600;
+    font-size: 20px;
+}
+.release{
+    padding-top: 5px;
+    font-size: 13px; 
+    font-weight: 400;
+    display:inline-block;    
+}
+.rating{
+    font-size: 13px;
+    font-weight: 400;
+}
+.movie_description{
+    margin-top: 5px;
+    font-size: 11px;
+    font-weight: 100;
+    
+}
+.watch{
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 30px;
+    background-color: rgb(189, 151, 14);
+    color: azure;
+    border-radius: 10px;
+}

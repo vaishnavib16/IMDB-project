@@ -1,0 +1,9 @@
+.popular_title{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.popular_card{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    
+}
